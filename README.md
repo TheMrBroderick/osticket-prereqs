@@ -24,4 +24,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Microsoft Azure Free Account
 - Understanding of Windows Ost
-- [Installation Files](https://drive.google.com/drive/folders/1Dy93tODodY0EATm4YFejXEDCYUFxDTPz?usp=sharing)
+- [Installation Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
